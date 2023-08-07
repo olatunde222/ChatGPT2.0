@@ -1,0 +1,26 @@
+- Frontend Tools (Vitejs and  TailwindCss)
+
+- initialize the client side of the project with
+    - npm create vite@latest
+    - run npm install
+    - npm run dev 
+
+- To initialize the TailwindCss and Vitejs
+      Run the below in a new ternimal in client directory,
+    - npm install -D tailwindcss postcss autoprefixer
+    - npx tailwindcss init -p
+
+- To initialize the Server Side (Backend)
+    - use npm init
+    - npm i body-parser cors dotenv express nodemon openai
+
+- To Run the server use,
+    - npm start  
+    
+- Cross-origin resource sharing (CORS) is a mechanism that 
+  allows restricted resources on a web page to be accessed
+  from another domain outside the domain from which the first resource was served
+
+- To initialize react query on the client side use,
+    - npm i react-query
+- install npm i formkit/auto-animate on cliet side for animation 
